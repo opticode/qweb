@@ -4,9 +4,9 @@
 
 I've been getting into Javascript best practices lately, and here is a summary of what I've learned so far:
 
-* Use Aptana for editing, and activate its built-in JSLint checker (also check warnings)
-* Consistency - naming, parameter order, code organization
-* Unit tests (TDD: jQuery's testrunner, JSUnit; BDD: JSSpec)
-* Document code with ScriptDoc
-* Encapsulation (anonymous functions)
-* Libraries in single namespace
+  * Use Aptana for editing, and activate its built-in JSLint checker (also check warnings)
+  * Consistency - naming, parameter order, code organization
+  * Unit tests (TDD: jQuery's testrunner, JSUnit; BDD: JSSpec)
+  * Document code with ScriptDoc
+  * Encapsulation (anonymous functions)
+  * Libraries in single namespace
